@@ -6,6 +6,8 @@ import MainContent from './MainContent';
 
 // My tests
 
+//Addig another comments - for skip workflow  example
+
 describe('MainContent', () => {
   it('should render a button', () => {
     render(<MainContent />);
